@@ -4,6 +4,8 @@ CSS-practices
 CSS+HTML5
 
 ## float_cleaner
+Clear float by psudo-element, make your css file more clear
+
 #### Usage
     <!-- link to float_cleaner.css in your header -->
     <link rel="stylesheet" type="text/css" href="float_cleaner.css">
