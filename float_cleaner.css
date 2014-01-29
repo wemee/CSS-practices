@@ -1,0 +1,14 @@
+.cleaner::before, .cleaner::after {
+    content: "";
+    display: table;
+}
+.cleaner::after {
+    clear: both;
+}
+.cleaner {
+    zoom:1; /*IE6, IE7*/
+}
+
+.floater {
+	float: left;	
+}
